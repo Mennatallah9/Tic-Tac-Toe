@@ -12,7 +12,7 @@ Tic Tac Toe python game
 ![alt text](https://github.com/Mennatallah9/Tic-Tac-Toe/blob/5dd79f479df222cf634d2dd531fd8aa98de783e0/Capture2.PNG?raw=true)
 
 ## Installation
-To run the program you need to install these modules
+To run the program you need to install these modules:
 1. tkinter
 ```
 pip install tk
